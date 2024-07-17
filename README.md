@@ -2,6 +2,8 @@
 
 This project is a User Management System with a Go backend using Echo framework and an Angular frontend.
 
+![Demo](https://github.com/user-attachments/assets/e1c139e6-a6de-49c8-8bb5-3c16d6d356ee)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
